@@ -1,22 +1,27 @@
 {
     "games": [
         {
+            "id" : 1,
             "name": "Halo",
             "releases": 6
         },
         {
+            "id" : 2,
             "name": "Call of Duty",
             "releases": 24
         },
         {
+            "id" : 3,
             "name": "Borderlands",
             "releases": 4
         },
         {
+            "id" : 4,
             "name": "Left 4 Dead",
             "releases": 2
         },
         {
+            "id" : 5,
             "name": "Fallout",
             "releases": 17
         }
