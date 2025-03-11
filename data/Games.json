@@ -1,0 +1,24 @@
+{
+    "games": [
+        {
+            "name": "Halo",
+            "releases": 6
+        },
+        {
+            "name": "Call of Duty",
+            "releases": 24
+        },
+        {
+            "name": "Borderlands",
+            "releases": 4
+        },
+        {
+            "name": "Left 4 Dead",
+            "releases": 2
+        },
+        {
+            "name": "Fallout",
+            "releases": 17
+        }
+    ]
+}
